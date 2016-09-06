@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 19.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 612 792" style="enable-background:new 0 0 612 792;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#2BACE2;stroke:#010101;stroke-width:0.4814;stroke-miterlimit:10;}
+	.st1{fill:none;stroke:#010101;stroke-width:0.4814;stroke-miterlimit:10;}
+	.st2{fill:none;stroke:#010101;stroke-width:0.4502;stroke-miterlimit:10;}
+	.st3{fill:#010101;stroke:#010101;stroke-width:0.4814;stroke-miterlimit:10;}
+	.st4{fill:#EC2227;stroke:#010101;stroke-width:0.4502;stroke-miterlimit:10;}
+	.st5{fill:#A8AAAD;stroke:#010101;stroke-width:0.2402;stroke-miterlimit:10;}
+	.st6{fill:none;stroke:#010101;stroke-width:0.1801;stroke-miterlimit:10;}
+	.st7{fill:#EC2227;stroke:#010101;stroke-width:0.1801;stroke-miterlimit:10;}
+	.st8{fill:none;stroke:#010101;stroke-width:9.005000e-002;stroke-miterlimit:10;}
+	.st9{fill:#010101;stroke:#010101;stroke-width:0.4502;stroke-miterlimit:10;}
+</style>
+<g>
+	<rect x="324.7" y="383.8" class="st0" width="13.2" height="3.4"/>
+	<line class="st1" x1="327.8" y1="383.8" x2="327.8" y2="380.7"/>
+	<line class="st1" x1="334.1" y1="383.8" x2="334.1" y2="380.7"/>
+	<path class="st2" d="M339.3,386.3c0-1.3-0.7-2.3-1.4-2.3"/>
+	<path class="st2" d="M323.1,386.3c0-1.3,0.7-2.3,1.4-2.3"/>
+	<rect x="325.3" y="380" class="st3" width="3.3" height="0.9"/>
+	<rect x="333.2" y="380" class="st3" width="3.3" height="0.9"/>
+	<rect x="322" y="386.1" class="st2" width="1.6" height="0.3"/>
+	<rect x="339" y="386.1" class="st2" width="1.6" height="0.3"/>
+	<rect x="325.3" y="380" class="st4" width="2" height="0.9"/>
+	<rect x="333.2" y="380" class="st4" width="2" height="0.9"/>
+	<g>
+		<rect x="326.4" y="384.5" class="st5" width="1.3" height="2.2"/>
+		<line class="st6" x1="326.9" y1="384.5" x2="326.9" y2="384.9"/>
+		<line class="st6" x1="326.9" y1="386.1" x2="326.9" y2="386.7"/>
+		<rect x="326.7" y="384.9" class="st7" width="0.6" height="1.3"/>
+		<line class="st8" x1="326.7" y1="385.2" x2="327.3" y2="385.2"/>
+		<line class="st8" x1="326.7" y1="385.4" x2="327.3" y2="385.4"/>
+		<line class="st8" x1="326.7" y1="385.8" x2="327.3" y2="385.8"/>
+	</g>
+	<g>
+		<rect x="335.4" y="384.3" class="st5" width="1.3" height="2.2"/>
+		<line class="st6" x1="335.9" y1="384.3" x2="335.9" y2="384.9"/>
+		<line class="st6" x1="335.9" y1="385.9" x2="335.9" y2="386.5"/>
+		<rect x="335.7" y="384.9" class="st7" width="0.6" height="1.3"/>
+		<line class="st8" x1="335.7" y1="385" x2="336.3" y2="385"/>
+		<line class="st8" x1="335.7" y1="385.4" x2="336.3" y2="385.4"/>
+		<line class="st8" x1="335.7" y1="385.8" x2="336.3" y2="385.8"/>
+	</g>
+	<rect x="325.6" y="387.6" class="st9" width="2" height="0.9"/>
+	<rect x="335.2" y="387.6" class="st9" width="2" height="0.9"/>
+</g>
+</svg>

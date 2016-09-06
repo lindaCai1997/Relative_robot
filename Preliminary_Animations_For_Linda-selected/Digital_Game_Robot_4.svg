@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 19.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 612 792" style="enable-background:new 0 0 612 792;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:none;stroke:#010101;stroke-width:0.5373;stroke-miterlimit:10;}
+	.st1{fill:none;stroke:#010101;stroke-width:0.5171;stroke-miterlimit:10;}
+	.st2{fill:#F89521;stroke:#010101;stroke-width:0.7312;stroke-miterlimit:10;}
+	.st3{fill:#EC2227;stroke:#010101;stroke-width:0.7312;stroke-miterlimit:10;}
+	.st4{fill:none;stroke:#010101;stroke-width:0.4934;stroke-miterlimit:10;}
+	.st5{fill:none;stroke:#010101;stroke-width:0.7312;stroke-miterlimit:10;}
+	.st6{fill:#A8AAAD;stroke:#010101;stroke-width:0.3902;stroke-miterlimit:10;}
+	.st7{fill:none;stroke:#010101;stroke-width:0.2925;stroke-miterlimit:10;}
+	.st8{fill:#EC2227;stroke:#010101;stroke-width:0.2925;stroke-miterlimit:10;}
+	.st9{fill:none;stroke:#010101;stroke-width:0.1462;stroke-miterlimit:10;}
+</style>
+<g>
+	<polygon class="st0" points="297.1,404.6 295.1,400.7 293,404.6 	"/>
+	<polygon class="st1" points="319.9,404.6 318.2,400.7 316.1,404.6 	"/>
+	<polygon class="st2" points="319.6,400.7 306.8,387.6 293.6,400.7 	"/>
+	<circle class="st3" cx="299.5" cy="398.4" r="1.2"/>
+	<polygon class="st4" points="302.4,391.7 298.6,393.1 297.1,397.2 	"/>
+	<polygon class="st5" points="316.1,397.2 316.1,391.7 310.9,391.7 	"/>
+	<g>
+		<rect x="305.6" y="395.8" class="st6" width="2" height="3.5"/>
+		<line class="st7" x1="306.8" y1="395.8" x2="306.8" y2="396.7"/>
+		<line class="st7" x1="306.5" y1="398.4" x2="306.5" y2="399.3"/>
+		<rect x="306.2" y="396.4" class="st8" width="0.9" height="2"/>
+		<line class="st9" x1="306.2" y1="396.9" x2="307.1" y2="396.9"/>
+		<line class="st9" x1="306.2" y1="397.5" x2="307.1" y2="397.5"/>
+		<line class="st9" x1="306.2" y1="398.1" x2="307.1" y2="398.1"/>
+	</g>
+	<circle class="st3" cx="313.5" cy="398.4" r="1.2"/>
+	<circle class="st3" cx="306.8" cy="391.7" r="1.2"/>
+</g>
+</svg>
